@@ -59,3 +59,6 @@ def check_results():
     print('Great job, you made it to the end of the code checks!')
     
 check_results()
+
+
+# return (1.0 / (self.stdev * math.sqrt(2*math.pi))) * math.exp(-0.5*((x - self.mean)/ self.stdev) ** 2)
